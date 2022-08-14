@@ -87,7 +87,7 @@ A hosted web-application (osrs-events) that allows for the following functionali
 #### MILESTONES (Edited):
 * Sprint 1: 10% - App online with user registration/authentication set up
 * Sprint 2: 40% -  Communities set up with community applications
-* Sprint 3: 100% - MAIN SYSTEM section complete - communities, administrative tools, roles, applications, etc. 
+* Sprint 3: 100% - MAIN SYSTEM section complete - communities, administrative tools, roles, community applications, event invitations. 
 
 
 
