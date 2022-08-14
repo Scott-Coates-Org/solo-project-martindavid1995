@@ -81,26 +81,13 @@ A hosted web-application (osrs-events) that allows for the following functionali
 - Ability for a group admin to invite/challenge another group to an event type (Bingo), as well as accept pending challenges
 - Once challenge is accepted, whatever game is being played goes into "pregame" phase
 
-##### BINGO
-###### PREGAME
-- System for each group admin in charge of the game to create and agree upon bingo board setup
-###### BOARD SETUP
-	- Each tile in the board represents a tradeable item in game
-	- Database containing a limited set of items (to be expanded to every item in game in future versions) for game creators to choose from and position into tile locations
-	- (Preferred but optional for V1) Ideally, an item-icon will sit in the game square to represent what is needed to satisfy that tile instead of just text
-	- Once board is agreed upon, admins agree to start the game, game goes into running phase
-###### RUNNING
-	- A game dashboard page presents information on the current gamestate to each team, viewable for every player
-	- Players who are enrolled in the game may click on a tile to claim they have completed it - this brings up a window to support evidence (an attached image)
-	- The evidence is sent to the game administrator, who can approve or deny the evidence
-	- Once a claim is approved, game tile is set to marked
-	- First team to five in a row wins
+-- Actual events to come in v2
 
 
-#### MILESTONES:
+#### MILESTONES (Edited):
 * Sprint 1: 10% - App online with user registration/authentication set up
-* Sprint 2: 40% - MAIN SYSTEM section complete (groups, administrators, challenges)
-* Sprint 3: 100% - BINGO section complete, osrs-events v1 complete
+* Sprint 2: 40% -  Communities set up with community applications
+* Sprint 3: 100% - MAIN SYSTEM section complete - communities, administrative tools, roles, applications, etc. 
 
 
 
